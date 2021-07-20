@@ -6,7 +6,7 @@
  	
 ,****下载安装就可以用的东西.是目前最方便简单的一下载地址
 
-,点击此处下载https://fanbaovpn.github.io/fanbao7.04.crx
+,点击此处下载https://fanbaovpn.github.io/fanbao 7.04.crx
 ****
 安装方法.打开谷歌浏览器菜单⢰里面扩展程序页,点开开发者模式,刷新下.
 
